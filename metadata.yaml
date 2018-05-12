@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2541
     wikipedia: http://it.wikipedia.org/wiki/Angelo_De_Gubernatis
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38687#Zoological-Mythology-Volume-I--of-2---13-or-The-Legends-of-Animals
 gutenberg_bookshelf:
 - Animals-Wild
 - Animal
